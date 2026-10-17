@@ -1,0 +1,1 @@
+$execute positioned $(x) $(y) $(z) unless block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop

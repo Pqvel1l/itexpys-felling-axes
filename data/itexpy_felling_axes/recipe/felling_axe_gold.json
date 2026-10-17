@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "MMM",
+    "MS ",
+    "S  "
+  ],
+  "key": {
+    "M": "minecraft:gold_block",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:golden_axe",
+    "count": 1,
+    "components": {
+      "minecraft:custom_data": {
+        "fellingaxes": "dablyat",
+        "itexpy_mat": "golden"
+      },
+      "minecraft:item_name": {"text":"","italic":false,"extra":[{"text":"G","color":"#FFF27A"},{"text":"o","color":"#FDED73"},{"text":"l","color":"#FBE86C"},{"text":"d","color":"#FAE364"},{"text":"e","color":"#F8DE5D"},{"text":"n","color":"#F6D856"},{"text":" ","color":"#F4D34F"},{"text":"F","color":"#F2CE48"},{"text":"e","color":"#F0C941"},{"text":"l","color":"#EFC439"},{"text":"l","color":"#EDBF32"},{"text":"i","color":"#EBBA2B"},{"text":"n","color":"#E9B524"},{"text":"g","color":"#E7AF1D"},{"text":" ","color":"#E5AA16"},{"text":"A","color":"#E4A50E"},{"text":"x","color":"#E2A007"},{"text":"e","color":"#E09B00"}]},
+      "minecraft:max_damage": 20,
+      "minecraft:item_model": "itexpy_felling_axes:felling_axe_gold"
+    }
+  }
+}

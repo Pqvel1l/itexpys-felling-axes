@@ -1,0 +1,17 @@
+execute positioned ~-1 ~ ~-1 if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log
+execute positioned ~-1 ~ ~ if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log
+execute positioned ~-1 ~ ~1 if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log
+execute positioned ~ ~ ~-1 if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log
+execute positioned ~ ~ ~1 if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log
+execute positioned ~1 ~ ~-1 if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log
+execute positioned ~1 ~ ~ if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log
+execute positioned ~1 ~ ~1 if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log
+execute positioned ~-1 ~1 ~-1 if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log
+execute positioned ~-1 ~1 ~ if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log
+execute positioned ~-1 ~1 ~1 if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log
+execute positioned ~ ~1 ~-1 if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log
+execute positioned ~ ~1 ~ if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log
+execute positioned ~ ~1 ~1 if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log
+execute positioned ~1 ~1 ~-1 if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log
+execute positioned ~1 ~1 ~ if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log
+execute positioned ~1 ~1 ~1 if score #blocks itexpy.data matches ..96 if block ~ ~ ~ #minecraft:logs run function itexpy_felling_axes:chop/break_log

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "MMM",
+    "MS ",
+    "S  "
+  ],
+  "key": {
+    "M": "minecraft:iron_block",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:iron_axe",
+    "count": 1,
+    "components": {
+      "minecraft:custom_data": {
+        "fellingaxes": "dablyat",
+        "itexpy_mat": "iron"
+      },
+      "minecraft:item_name": {"text":"","italic":false,"extra":[{"text":"I","color":"#F5F5F5"},{"text":"r","color":"#EFEFF0"},{"text":"o","color":"#E9EAEA"},{"text":"n","color":"#E3E4E5"},{"text":" ","color":"#DDDEE0"},{"text":"F","color":"#D7D9DB"},{"text":"e","color":"#D1D3D5"},{"text":"l","color":"#CBCDD0"},{"text":"l","color":"#C4C8CB"},{"text":"i","color":"#BEC2C6"},{"text":"n","color":"#B8BCC0"},{"text":"g","color":"#B2B7BB"},{"text":" ","color":"#ACB1B6"},{"text":"A","color":"#A6ABB1"},{"text":"x","color":"#A0A6AB"},{"text":"e","color":"#9AA0A6"}]},
+      "minecraft:item_model": "itexpy_felling_axes:felling_axe_iron",
+      "minecraft:max_damage": 50
+    }
+  }
+}

@@ -1,0 +1,1 @@
+$attribute @s minecraft:block_break_speed modifier add itexpy_felling_axes:slow $(amount) add_multiplied_total

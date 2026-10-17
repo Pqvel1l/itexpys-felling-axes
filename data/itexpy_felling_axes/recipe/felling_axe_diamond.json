@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "MMM",
+    "MS ",
+    "S  "
+  ],
+  "key": {
+    "M": "minecraft:diamond_block",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:diamond_axe",
+    "count": 1,
+    "components": {
+      "minecraft:custom_data": {
+        "fellingaxes": "dablyat",
+        "itexpy_mat": "diamond"
+      },
+      "minecraft:item_name": {"text":"","italic":false,"extra":[{"text":"D","color":"#B8FFF6"},{"text":"i","color":"#B0FBF3"},{"text":"a","color":"#A7F6EF"},{"text":"m","color":"#9EF2EC"},{"text":"o","color":"#96EEE8"},{"text":"n","color":"#8EEAE5"},{"text":"d","color":"#85E5E1"},{"text":" ","color":"#7CE1DE"},{"text":"F","color":"#74DDDA"},{"text":"e","color":"#6CD8D7"},{"text":"l","color":"#63D4D4"},{"text":"l","color":"#5AD0D0"},{"text":"i","color":"#52CCCD"},{"text":"n","color":"#4AC7C9"},{"text":"g","color":"#41C3C6"},{"text":" ","color":"#38BFC2"},{"text":"A","color":"#30BBBF"},{"text":"x","color":"#28B6BB"},{"text":"e","color":"#1FB2B8"}]},
+      "minecraft:item_model": "itexpy_felling_axes:felling_axe_diamond",
+      "minecraft:max_damage": 100
+    }
+  }
+}
